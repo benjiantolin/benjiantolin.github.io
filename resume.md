@@ -7,7 +7,7 @@
 >[linkedin Profile](http://www.linkedin.com/in/benjaminantolin)
 
 ### EDUCATION
-**Master of Science in Applied Economics** | Expected December 2019<br/>
+![](https://benjiantolin.github.io/Pictures/OSULogo.png)**Master of Science in Applied Economics** | Expected December 2019<br/>
 _Oregon State University, Corvallis, OR_
 - Relevant classes: Applied Econometrics, Masters level microeconomic theory I & II
 
