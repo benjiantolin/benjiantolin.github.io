@@ -7,7 +7,7 @@
 >[linkedin Profile](http://www.linkedin.com/in/benjaminantolin)
 
 ### EDUCATION
-![](https://benjiantolin.github.io/Pictures/OSULogo.png)**Master of Science in Applied Economics** | Expected December 2019<br/>
+**Master of Science in Applied Economics** | Expected December 2019<br/>
 _Oregon State University, Corvallis, OR_
 - Relevant classes: Applied Econometrics, Masters level microeconomic theory I & II
 
@@ -60,7 +60,7 @@ _City of Seattle, Parks Department, Seattle, WA_
 -	Omicron Delta Epsilon International Honors Society for Economics (Inducted May 2016)
 -	Nate Narrance Scholarship for Economics Majors (EWU, June 2016)
 -	Student Excellence Award for Economics (EWU, June 2016)
--	Founder and Former President of the EWU Badminton Club (EWU, January 2012)
+-	:tennis: Founder and Former President of the EWU Badminton Club :tennis: (EWU, January 2012)
 -	Taught English to school age students in a remote village in Nepal (April-June 2010)
 
 ### SKILLS PROFILE
