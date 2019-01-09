@@ -1,10 +1,10 @@
 # Benjamin S. Antolin
 
-Email: benjiantolin@gmail.com
-
-GitHub: https://github.com/benjiantolin
-
-linkedin: http://www.linkedin.com/in/benjaminantolin
+>[Email](benjiantolin@gmail.com): benjiantolin@gmail.com
+>
+>[GitHub](https://github.com/benjiantolin): https://github.com/benjiantolin
+>
+>[linkedin Profile](http://www.linkedin.com/in/benjaminantolin)
 
 ### EDUCATION
 **Master of Science in Applied Economics** | Expected December 2019
@@ -48,7 +48,7 @@ _Eastern Washington University Department of Economics, Cheney, WA_
 -	Assisted economics professors with class materials, grading and monitoring examinations
 -	Provided support to Economics Professors by assembling of research materials, assembling of data and assisting in data analysis.
 
-**Beach Manager, Recreation Program Lead, Lifeguard Instructor** |Summers 2009-2015
+**Beach Manager, Recreation Program Lead, Lifeguard Instructor** | Summers 2009-2015
 _City of Seattle, Parks Department, Seattle, WA_
 -	Managed and trained up to10 lifeguard on a daily basis
 -	Conducted mid-season and end of season reviews for direct employees and made recommendations accordingly
