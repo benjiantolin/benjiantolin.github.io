@@ -1,12 +1,12 @@
-#Benjamin S. Antolin
+# Benjamin S. Antolin
 
- Email: benjiantolin@gmail.com
+Email: benjiantolin@gmail.com
 
- GitHub: https://github.com/benjiantolin
+GitHub: https://github.com/benjiantolin
 
 linkedin: http://www.linkedin.com/in/benjaminantolin
 
-###EDUCATION
+### EDUCATION
 **Master of Science in Applied Economics** | Expected December 2019
 _Oregon State University, Corvallis, OR_
 - Relevant classes: Applied Econometrics, Masters level microeconomic theory I & II
@@ -19,7 +19,7 @@ _Eastern Washington University, Cheney, WA_
 _Eastern Washington University, Cheney, WA_
 -	Relevant Classes: GIS I, II & III, GIS for Social Sciences, GIS with R, and GIS Portfolio
 
-###RELEVANT EXPERIENCE
+### RELEVANT EXPERIENCE
 **Faculty Research Assistant/Data & GIS Analyst** | August 2017- Present
 _Oregon State University Extension Service Administration, Corvallis, OR_
 -	Work closely with the Rural Communities Explorer managing faculty on data collection, management, and analysis
@@ -56,14 +56,14 @@ _City of Seattle, Parks Department, Seattle, WA_
 -	Implemented facility protocol, policies and procedures, provided lifesaving medical assistance as needed via American Red Cross
 -	Lead lifeguard, CPR and first aid training courses for the general public
 
-###AWARDS, HONORS& ACCOMPLISHMENTS
+### AWARDS, HONORS& ACCOMPLISHMENTS
 -	Omicron Delta Epsilon International Honors Society for Economics (Inducted May 2016)
 -	Nate Narrance Scholarship for Economics Majors (EWU, June 2016)
 -	Student Excellence Award for Economics (EWU, June 2016)
 -	Founder and Former President of the EWU Badminton Club (EWU, January 2012)
 -	Taught English to school age students in a remote village in Nepal (April-June 2010)
 
-###SKILLS PROFILE
+### SKILLS PROFILE
 -	Statistical software (STATA, Minitab, Advanced Microsoft Excel, R)
 -	ESRI Arc GIS software
 -	Programming languages (Python, Visual Basic)
