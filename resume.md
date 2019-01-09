@@ -1,6 +1,6 @@
 # Benjamin S. Antolin
 
->[Email](benjiantolin@gmail.com): benjiantolin@gmail.com
+>:e-mail:[Email](benjiantolin@gmail.com): benjiantolin@gmail.com
 >
 >[GitHub](https://github.com/benjiantolin): https://github.com/benjiantolin
 >
@@ -58,10 +58,10 @@ _City of Seattle, Parks Department, Seattle, WA_
 
 ### AWARDS, HONORS & ACCOMPLISHMENTS
 -	Omicron Delta Epsilon International Honors Society for Economics (Inducted May 2016)
--	Nate Narrance Scholarship for Economics Majors (EWU, June 2016)
+-	:moneybag: Nate Narrance Scholarship for Economics Majors :moneybag: (EWU, June 2016)
 -	Student Excellence Award for Economics (EWU, June 2016)
 -	:tennis: Founder and Former President of the EWU Badminton Club :tennis: (EWU, January 2012)
--	Taught English to school age students in a remote village in Nepal (April-June 2010)
+-	:school: Taught English to school age students in a remote village in Nepal :mount_fuji: (April-June 2010)
 
 ### SKILLS PROFILE
 -	Statistical software (STATA, Minitab, Advanced Microsoft Excel, R)
