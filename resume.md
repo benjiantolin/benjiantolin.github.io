@@ -1,7 +1,10 @@
 #Benjamin S. Antolin
- benjiantolin@gmail.com
- https://github.com/benjiantolin
- http://www.linkedin.com/in/benjaminantolin
+
+ Email: benjiantolin@gmail.com
+
+ GitHub: https://github.com/benjiantolin
+
+linkedin: http://www.linkedin.com/in/benjaminantolin
 
 ###EDUCATION
 **Master of Science in Applied Economics** | Expected December 2019
@@ -15,6 +18,7 @@ _Eastern Washington University, Cheney, WA_
 **Certificate in Geographical Information Systems (GIS)** | June 2017
 _Eastern Washington University, Cheney, WA_
 -	Relevant Classes: GIS I, II & III, GIS for Social Sciences, GIS with R, and GIS Portfolio
+
 ###RELEVANT EXPERIENCE
 **Faculty Research Assistant/Data & GIS Analyst** | August 2017- Present
 _Oregon State University Extension Service Administration, Corvallis, OR_
@@ -51,12 +55,14 @@ _City of Seattle, Parks Department, Seattle, WA_
 -	Provided outstanding customer service to patrons of the Seattle lifeguarded beaches
 -	Implemented facility protocol, policies and procedures, provided lifesaving medical assistance as needed via American Red Cross
 -	Lead lifeguard, CPR and first aid training courses for the general public
+
 ###AWARDS, HONORS& ACCOMPLISHMENTS
 -	Omicron Delta Epsilon International Honors Society for Economics (Inducted May 2016)
 -	Nate Narrance Scholarship for Economics Majors (EWU, June 2016)
 -	Student Excellence Award for Economics (EWU, June 2016)
 -	Founder and Former President of the EWU Badminton Club (EWU, January 2012)
 -	Taught English to school age students in a remote village in Nepal (April-June 2010)
+
 ###SKILLS PROFILE
 -	Statistical software (STATA, Minitab, Advanced Microsoft Excel, R)
 -	ESRI Arc GIS software
