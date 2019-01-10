@@ -1,6 +1,6 @@
 # Benjamin S. Antolin
 
->:e-mail:[Email](benjiantolin@gmail.com): benjiantolin@gmail.com
+>:email:[Email](benjiantolin@gmail.com): benjiantolin@gmail.com
 >
 >[GitHub](https://github.com/benjiantolin): https://github.com/benjiantolin
 >
@@ -8,7 +8,7 @@
 
 ### EDUCATION
 **Master of Science in Applied Economics** | Expected December 2019<br/>
-_Oregon State University, Corvallis, OR_
+[_Oregon State University, Corvallis, OR_](https://oregonstate.edu/)
 - Relevant classes: Applied Econometrics, Masters level microeconomic theory I & II
 
 **Bachelor of Arts in Economics with Mathematics Option** | June 2017<br/>
