@@ -9,7 +9,8 @@
 ### EDUCATION
 **Master of Science in Applied Economics** | Expected December 2019<br/>
 _Oregon State University, Corvallis, OR_
-- Relevant classes: Applied Econometrics, Masters level microeconomic theory I & II
+| Relevant classes: | 
+| Applied Econometrics | Masters level microeconomic theory I & II |
 
 **Bachelor of Arts in Economics with Mathematics Option** | June 2017<br/>
 _Eastern Washington University, Cheney, WA_
@@ -56,14 +57,14 @@ _City of Seattle, Parks Department, Seattle, WA_
 -	Implemented facility protocol, policies and procedures, provided lifesaving medical assistance as needed via American Red Cross
 -	Lead lifeguard, CPR and first aid training courses for the general public
 
-### AWARDS, HONORS & ACCOMPLISHMENTS
+#### AWARDS, HONORS & ACCOMPLISHMENTS
 -	:mortar_board: Omicron Delta Epsilon International Honors Society for Economics :mortar_board: (Inducted May 2016)
 -	:moneybag: Nate Narrance Scholarship for Economics Majors :moneybag: (EWU, June 2016)
 - :mortar_board:	Student Excellence Award for Economics :mortar_board: (EWU, June 2016)
 -	:tennis: Founder and Former President of the EWU Badminton Club :tennis: (EWU, January 2012)
 -	:school: Taught English to school age students in a remote village in Nepal :mount_fuji: (April-June 2010)
 
-### SKILLS PROFILE
+#### SKILLS PROFILE
 -	Statistical software (STATA, Minitab, Advanced Microsoft Excel, R)
 -	ESRI Arc GIS software
 -	Programming languages (Python, Visual Basic)
