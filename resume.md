@@ -11,14 +11,14 @@
 _Oregon State University, Corvallis, OR_
 
 | Relevant Classes |
-| ----------------- | -----------------|
+| :-----------------: | :-----------------:|
 | Applied Econometrics | Masters level microeconomic theory I & II |
 
 **Bachelor of Arts in Economics with Mathematics Option** | June 2017<br/>
 _Eastern Washington University, Cheney, WA_
 
 | Relevant Classes |
-| ------------------ | ----------------|-------------------|
+| :------------------: | :----------------:| :-------------------:|
 | Econometrics I & II | Intermediate Economic Theory |Computer Programming (Java, Python, & Visual Basic)|
 | Linear Algebra | Decision Science I & II | Calculus I, II, & III|
 
@@ -26,7 +26,7 @@ _Eastern Washington University, Cheney, WA_
 _Eastern Washington University, Cheney, WA_
 
 |Relevant Classes |
-| ------------------- | -----------------|
+| :-------------------: | :-----------------: |
 | GIS I, II & III | GIS for Social Sciences|
 | GIS with R | [GIS Portfolio](https://benjiantolin.wixsite.com/gisportfolio)|
 
