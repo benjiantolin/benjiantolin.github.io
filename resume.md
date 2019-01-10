@@ -8,7 +8,7 @@
 
 ### EDUCATION
 **Master of Science in Applied Economics** | Expected December 2019<br/>
-[_Oregon State University, Corvallis, OR_](https://oregonstate.edu/)
+_Oregon State University, Corvallis, OR_
 - Relevant classes: Applied Econometrics, Masters level microeconomic theory I & II
 
 **Bachelor of Arts in Economics with Mathematics Option** | June 2017<br/>
@@ -17,7 +17,7 @@ _Eastern Washington University, Cheney, WA_
 
 **Certificate in Geographical Information Systems (GIS)** | June 2017<br/>
 _Eastern Washington University, Cheney, WA_
--	Relevant Classes: GIS I, II & III, GIS for Social Sciences, GIS with R, and GIS Portfolio
+-	Relevant Classes: GIS I, II & III, GIS for Social Sciences, GIS with R, and [GIS Portfolio](https://benjiantolin.wixsite.com/gisportfolio)
 
 ### RELEVANT EXPERIENCE
 **Faculty Research Assistant/Data & GIS Analyst** | August 2017- Present<br/>
