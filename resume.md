@@ -8,7 +8,7 @@
 
 ### EDUCATION
 **Master of Science in Applied Economics** | Expected December 2019<br/>
-_[Oregon State University][], Corvallis, OR_
+<img src="https://benjiantolin.github.io/Pictures/OSULogo.png" style="width:50px; height:50px;"> _[Oregon State University][], Corvallis, OR_
 
 | Relevant Classes ||
 | :-----------------: | :-----------------:|
