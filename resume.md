@@ -8,14 +8,14 @@
 
 ### EDUCATION
 **Master of Science in Applied Economics** | Expected December 2019<br/>
-_Oregon State University, Corvallis, OR_
+_[Oregon State University][], Corvallis, OR_
 
 | Relevant Classes ||
 | :-----------------: | :-----------------:|
 | Applied Econometrics | Masters level microeconomic theory I & II |
 
 **Bachelor of Arts in Economics with Mathematics Option** | June 2017<br/>
-_Eastern Washington University, Cheney, WA_
+_[Eastern Washington University][], Cheney, WA_
 
 | Relevant Classes |||
 | :------------------: | :----------------:| :-------------------:|
@@ -23,7 +23,7 @@ _Eastern Washington University, Cheney, WA_
 | Linear Algebra | Decision Science I & II | Calculus I, II, & III|
 
 **Certificate in Geographical Information Systems (GIS)** | June 2017<br/>
-_Eastern Washington University, Cheney, WA_
+_[Eastern Washington University][], Cheney, WA_
 
 |Relevant Classes ||
 | :-------------------: | :-----------------: |
@@ -79,3 +79,6 @@ _City of Seattle, Parks Department, Seattle, WA_
 -	ESRI Arc GIS software
 -	Programming languages (Python, Visual Basic)
 -	Microsoft Office Suite
+
+[Eastern Washington University]: https://www.ewu.edu/
+[Oregon State University]: https://oregonstate.edu/
