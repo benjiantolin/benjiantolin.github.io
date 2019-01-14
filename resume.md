@@ -1,6 +1,6 @@
 # Benjamin S. Antolin
 
->:email:[Email](benjiantolin@gmail.com): benjiantolin@gmail.com
+> :email: [Email](benjiantolin@gmail.com): benjiantolin@gmail.com
 >
 >[GitHub](https://github.com/benjiantolin): https://github.com/benjiantolin
 >
