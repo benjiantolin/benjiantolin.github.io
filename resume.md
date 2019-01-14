@@ -8,7 +8,7 @@
 
 ### EDUCATION
 **Master of Science in Applied Economics** | Expected December 2019<br/>
-<img src="https://benjiantolin.github.io/Pictures/OSULogo.png" alt="OSU Logo" style="width:5%;"> _[Oregon State University][], Corvallis, OR_
+ _[Oregon State University][], Corvallis, OR_
 
 | Relevant Classes ||
 | :-----------------: | :-----------------:|
@@ -33,6 +33,7 @@ _[Eastern Washington University][], Cheney, WA_
 ### RELEVANT EXPERIENCE
 **Faculty Research Assistant/Data & GIS Analyst** | August 2017- Present<br/>
 _Oregon State University Extension Service Administration, Corvallis, OR_
+![](https://benjiantolin.github.io/Pictures/RCE.png)
 -	Work closely with the Rural Communities Explorer managing faculty on data collection, management, and analysis
 -	Input and retrieval of data from original sources.
 -	Design custom data driven maps using ArcGIS for data visualization and analysis
@@ -47,6 +48,7 @@ _Oregon State University Extension Service Administration, Corvallis, OR_
 
 **Assistant Policy/Data Analyst** | May 2016- June 2017<br/>
 _Eastern Washington University Institute for Public Policy and Economic Analysis, Spokane, WA_
+
 -	Create and maintain data sets collected from federal, state and local databases (U.S. Census, WSOFM, FBI Reports, WASPC, WADOH, WA State Auditor, etc.)
 -	Collecting demographic, economic, education, environment, health, housing, public safety, agriculture and transportation data
 -	Update written and digital content for websites for projects managed by the Institute
@@ -55,12 +57,14 @@ _Eastern Washington University Institute for Public Policy and Economic Analysis
 
 **Teaching Assistant** | September 2015 - May 2016<br/>
 _Eastern Washington University Department of Economics, Cheney, WA_
+
 -	Tutored students in understanding economic concepts, models and materials presented in class
 -	Assisted economics professors with class materials, grading and monitoring examinations
 -	Provided support to Economics Professors by assembling of research materials, assembling of data and assisting in data analysis.
 
 **Beach Manager, Recreation Program Lead, Lifeguard Instructor** | Summers 2009-2015<br/>
 _City of Seattle, Parks Department, Seattle, WA_
+![](https://benjiantolin.github.io/Pictures/CityOfSeattleBanner.png)
 -	Managed and trained up to10 lifeguard on a daily basis
 -	Conducted mid-season and end of season reviews for direct employees and made recommendations accordingly
 -	Provided outstanding customer service to patrons of the Seattle lifeguarded beaches
