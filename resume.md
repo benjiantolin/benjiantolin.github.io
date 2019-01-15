@@ -34,6 +34,7 @@ _[Eastern Washington University][], Cheney, WA_
 **Faculty Research Assistant/Data & GIS Analyst** | August 2017- Present<br/>
 _Oregon State University Extension Service Administration, Corvallis, OR_
 ![](https://benjiantolin.github.io/Pictures/RCE.png)
+
 -	Work closely with the Rural Communities Explorer managing faculty on data collection, management, and analysis
 -	Input and retrieval of data from original sources.
 -	Design custom data driven maps using ArcGIS for data visualization and analysis
