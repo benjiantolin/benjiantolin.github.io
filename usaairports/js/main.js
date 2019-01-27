@@ -1,9 +1,9 @@
 // 1. Create a map object.
 var mymap = L.map('map', {
-    center: [44.13, -119.93],
-    zoom: 7,
+    center: [38.48, -97.68],
+    zoom: 1,
     maxZoom: 10,
-    minZoom: 3,
+    minZoom: 1,
     detectRetina: true});
 
 // 2. Add a base map.
