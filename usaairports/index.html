@@ -33,7 +33,7 @@
     var airports = null;
 
     // 4. build up a set of colors from colorbrewer's dark2 category
-    var colors = chroma.scale('RdBu').mode('lch').colors(2);
+    var colors = chroma.scale('RdYlBu').mode('lch').colors(2);
 
     // 5. dynamically append style classes to this page. This style classes will be used for colorize the markers.
     for (i = 0; i < 2; i++) {
@@ -49,7 +49,7 @@
     },
     pointToLayer: function (feature, latlng) {
     var id = 0;
-    if (feature.properties.CNTL_TWR == "Y") { id = 0; }
+    if (feature.properties.CNTL_TWR == "N") { id = 0; }
     else { id = 1;}
     return L.marker(latlng, {icon: L.divIcon({className: 'fa fa-plane marker-color-' + (id + 1).toString() })});
     },
