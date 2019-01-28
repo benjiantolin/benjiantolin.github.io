@@ -48,9 +48,7 @@ for (i = 0; i < 2; i++) {
 }
 
 // add popup window
-onEachFeature: function (feature, layer) {
-    layer.bindPopup(feature.properties.AIRPT_NAME);
-},
+
 pointToLayer: function (feature, latlng) {
     var id = 0;
     if (feature.properties.CNTL_TWR == "Y") { id = 0; }
