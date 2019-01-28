@@ -46,10 +46,10 @@
     //add popup window
     onEachFeature: function (feature, layer) {
     layer.bindPopup(
-      '<p><strong>Airport:</strong>' + feature.properties.AIRPT_NAME+'</p>'
-      '<p><strong>City:</strong>' + feature.properties.CITY+'</p>'
-      '<p><strong>County:</strong>' + feature.properties.COUNTY+'</p>'
-      '<p><strong>State:</strong>' + feature.properties.STATE+'</p>'
+      '<p><strong>Airport:</strong>' + feature.properties.AIRPT_NAME+'</p>'+
+      '<p><strong>City:</strong>' + feature.properties.CITY+'</p>'+
+      '<p><strong>County:</strong>' + feature.properties.COUNTY+'</p>'+
+      '<p><strong>State:</strong>' + feature.properties.STATE+'</p>'+
     )},
 
     pointToLayer: function (feature, latlng) {
