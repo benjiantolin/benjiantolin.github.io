@@ -50,13 +50,15 @@
                  '<p><strong>City:</strong> ' + props.CITY + '</p>' +
                  '<p><strong>County:</strong> ' + props.COUNTY + '</p>' +
                  '<p><strong>State:</strong> ' + props.STATE + '</p>' +
-               '</div>'}
+               '</div>'
+   }
     //add popup window
     var onEachFeature = function(feature, layer) {
       if (feature.properties) {
         var popUpContent = makePopUpContent(feature.properties);
         layer.bindPopup(popUpContent);
-      }}
+     }
+   }
     ,
     pointToLayer: function (feature, latlng) {
     var id = 0;
