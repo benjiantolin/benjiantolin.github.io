@@ -47,7 +47,7 @@
     //add popup window
     onEachFeature: function (feature, layer) {
     layer.bindPopup(feature.properties.AIRPT_NAME);
-
+    }
     pointToLayer: function (feature, latlng) {
         var id = 0;
         if (feature.properties.CNTL_TWR == "Y") { id = 0; }//has control tower
@@ -57,7 +57,7 @@
     attribution: 'Airport Data &copy; data.gov | US States &copy; Mike Bostock of D3 | Base Map &copy; CartoDB | Made By Benjamin Antolin'
     }).addTo(mymap);
 
-    
+
 
 </script>
 </body>
