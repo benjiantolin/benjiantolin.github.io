@@ -59,8 +59,36 @@
     })
     .addTo(mymap);
 
+    // 6. Set function for color ramp
+    colors = chroma.scale('OrRd').colors(5); //colors = chroma.scale('OrRd').colors(5);
+
+    function setColor(density) {
+        var id = 0;
+        if (density > 18) { id = 4; }
+        else if (density > 13 && density <= 18) { id = 3; }
+        else if (density > 10 && density <= 13) { id = 2; }
+        else if (density > 5 &&  density <= 10) { id = 1; }
+        else  { id = 0; }
+        return colors[id];
+    }
+
+    // 7. Set style function that sets fill color.md property equal to cell tower density
+    function style(feature) {
+        return {
+            fillColor: setColor(feature.properties.count),
+            fillOpacity: 0.4,
+            weight: 2,
+            opacity: 1,
+            color: '#b4b4b4',
+            dashArray: '4'
+        };
+    }
+
     // create the state layer
-    L.geoJson.ajax("assets/us-states.geojson").addTo(mymap);
+    var states = null;
+    states = L.geoJson.ajax("assets/us-states.geojson", {
+        style: style
+    }).addTo(mymap);
 
 </script>
 </body>
