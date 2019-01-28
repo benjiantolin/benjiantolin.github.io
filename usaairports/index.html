@@ -59,6 +59,9 @@
     })
     .addTo(mymap);
 
+    // create the state layer
+    L.geoJson.ajax("assets/us-states.geojson").addTo(mymap);
+
 </script>
 </body>
 </html>
