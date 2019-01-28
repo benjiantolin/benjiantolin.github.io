@@ -46,15 +46,15 @@
     });
 
     // add popup window
-    onEachFeature: function (feature, layer) {
-    layer.bindPopup(feature.properties.AIRPT_NAME);
+    //onEachFeature: function (feature, layer) {
+  //  layer.bindPopup(feature.properties.AIRPT_NAME);
 
-    pointToLayer: function (feature, latlng) {
-        var id = 0;
-        if (feature.properties.CNTL_TWR == "Y") { id = 0; }
-        else { id = 1;} // "Salem Cellular"
-        return L.marker(latlng, {icon: L.divIcon({className: 'fa fa-plane-departure marker-color-' + (id + 1).toString() })});
-    }
+  //  pointToLayer: function (feature, latlng) {
+    //    var id = 0;
+  //      if (feature.properties.CNTL_TWR == "Y") { id = 0; }
+  //      else { id = 1;} // "Salem Cellular"
+  //      return L.marker(latlng, {icon: L.divIcon({className: 'fa fa-plane-departure marker-color-' + (id + 1).toString() })});
+  //  }
 
     // Add the airpotys to the map.
     airports.addTo(mymap);
