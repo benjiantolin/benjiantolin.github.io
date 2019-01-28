@@ -46,13 +46,13 @@
     //add popup window
     onEachFeature: function (feature, layer) {
     layer.bindPopup(feature.properties.AIRPT_NAME);
-  },
-  //  pointToLayer: function (feature, latlng) {
-  //      var id = 0;
-  //      if (feature.properties.CNTL_TWR == "Y") { id = 0; }//has control tower
-//        else { id = 1;} //no control tower
-  //      return L.marker(latlng, {icon: L.divIcon({className: 'fa fa-plane-departure marker-color-' + (id + 1).toString() })});
-  //  },
+    },
+    pointToLayer: function (feature, latlng) {
+    var id = 0;
+    if (feature.properties.CNTL_TWR == "y") { id = 0; }
+    else { id = 1;}
+    return L.marker(latlng, {icon: L.divIcon({className: 'fa fa-plane marker-color-' + (id + 1).toString() })});
+    },
     attribution: 'Airport Data &copy; data.gov | US States &copy; Mike Bostock of D3 | Base Map &copy; CartoDB | Made By Benjamin Antolin'
     }).addTo(mymap);
 
