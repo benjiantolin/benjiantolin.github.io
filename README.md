@@ -7,12 +7,13 @@
 >[linkedin Profile](http://www.linkedin.com/in/benjaminantolin)
 
 ### EDUCATION
-**Master of Science in Applied Economics** | Expected December 2019<br/>
+**Master of Science in Applied Economics** | Expected June 2020<br/>
  _[Oregon State University][], Corvallis, OR_
 
-| Relevant Classes ||
-| :-----------------: | :-----------------:|
-| Applied Econometrics | Masters level microeconomic theory I & II |
+ |           Relevant Classes            |                                           |                               |
+ | :-----------------------------------: | :---------------------------------------: | :---------------------------: |
+ |         Applied Econometrics          | Masters level microeconomic theory I & II | Geovisualization: Web Mapping |
+ | Geovisualization: Geovisual Analytics |              Data Managment               |      Data & Text Mining       |
 
 **Bachelor of Arts in Economics with Mathematics Option** | June 2017<br/>
 _[Eastern Washington University][], Cheney, WA_
